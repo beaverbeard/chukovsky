@@ -231,6 +231,7 @@ PR и issue приветствуются. Скил — это обычный Mar
 
 | Скил | Зона | Природа |
 |------|------|---------|
+| [Бахтин](https://github.com/beaverbeard/bakhtin) | Генерация черновика: multi-agent, 7 форматов | LLM |
 | **Чуковский** | Смысл, структура, голос, канцелярит | LLM |
 | [Розенталь](https://github.com/beaverbeard/rozental) | Орфография, пунктуация, согласование, единообразие | LLM |
 | [Слопотрон](https://github.com/beaverbeard/slopotron) | AI-маркеры и нейрослоп | LLM |
