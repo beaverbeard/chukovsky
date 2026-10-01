@@ -1,0 +1,22 @@
+{
+  "name": "chukovsky",
+  "displayName": "Чуковский",
+  "version": "1.0.0",
+  "description": "Литературный и смысловой редактор русского текста: правит канцелярит и сломанную логику, но не переписывает за автора.",
+  "author": {
+    "name": "Rodion Scryabin (beaverbeard)",
+    "url": "https://github.com/beaverbeard"
+  },
+  "homepage": "https://github.com/beaverbeard/chukovsky",
+  "repository": "https://github.com/beaverbeard/chukovsky",
+  "license": "MIT",
+  "keywords": [
+    "editing",
+    "russian",
+    "writing",
+    "editor"
+  ],
+  "skills": [
+    "./.claude/skills/"
+  ]
+}
