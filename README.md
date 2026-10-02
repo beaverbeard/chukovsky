@@ -9,6 +9,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-skill-da7756.svg)](https://docs.claude.com/en/docs/claude-code/overview)
 
+**In English.** Chukovsky is a literary editor for **Russian-language text only**. Give it a draft and Claude reviews structure (is there a thesis, do paragraphs flow), clarity (bureaucratese, translation calques, overlong sentences), logic (does the conclusion follow) and voice — then proposes precise edits instead of rewriting the text for you. Pure instructions for Claude: no scripts, no network access, nothing is stored.
+
+
 Даёте текст — Claude проходит по нему как живой редактор: смотрит структуру (есть ли
 тезис, не переставляются ли абзацы), ясность (канцелярит, переводные кальки, длинные
 предложения), логику (не подменяется ли тезис, следует ли вывод) и голос (не
