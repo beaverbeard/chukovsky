@@ -1,13 +1,13 @@
 {
   "name": "chukovsky",
   "displayName": "Чуковский",
-  "version": "1.0.6",
-  "description": "Literary and structural editor for Russian-language text: fixes bureaucratese, calques and broken logic without rewriting the author's voice.",
+  "version": "1.0.7",
+  "description": "Для русского языка · For Russian. Редактирует тексты. Выстраивает мысль, исправляет провалы в логике и убирает канцелярит. / Edits texts by improving structure, fixing gaps in logic and removing bureaucratic wording.",
   "author": {
     "name": "Rodion Scryabin (beaverbeard)",
     "url": "https://github.com/beaverbeard"
   },
-  "homepage": "https://github.com/beaverbeard/chukovsky",
+  "homepage": "https://redaktozavr.ru/rAIdactor?utm_source=skills",
   "repository": "https://github.com/beaverbeard/chukovsky",
   "license": "MIT",
   "keywords": [
@@ -18,5 +18,7 @@
   ],
   "skills": [
     "./.claude/skills/"
-  ]
+  ],
+  "icon": "./.claude-plugin/icon.png",
+  "documentationUrl": "https://github.com/beaverbeard/chukovsky"
 }

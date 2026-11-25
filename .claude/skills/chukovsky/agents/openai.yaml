@@ -1,0 +1,6 @@
+interface:
+  display_name: "Чуковский"
+  short_description: "Редактирует тексты: смысл, структура и ясность"
+  icon_small: "./assets/brand/icon-chukovsky.svg"
+  icon_large: "./assets/brand/icon-chukovsky.png"
+  brand_color: "#EE402C"
