@@ -7,7 +7,7 @@
 - Author: Л. Бергольцев; mos.ru / Главархив Москвы
 - Date: 1958-07-02
 - License / status as stated by the source: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)
-- Changes: none. The source image has not been edited.
+- Portrait changes: none. The card adds typography and layout around the original photograph.
 - SHA-256: `8e381bacdd6379f6b947c903d2a1ea5b9518085ca262d4af76a5698a1db40d30`
 
 The repository’s MIT license does not replace the photograph’s separate terms.

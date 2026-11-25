@@ -18,5 +18,97 @@
   "rights_status": "commons_free_license",
   "changes": "none; original file downloaded byte-for-byte",
   "http_status": 200,
-  "photographer_evidence": "Attribution in Commons image description: Фото Л. Бергольцева."
+  "photographer_evidence": "Attribution in Commons image description: Фото Л. Бергольцева.",
+  "card_renders": [
+    {
+      "slug": "chukovsky",
+      "lang": "ru",
+      "layout": "wide",
+      "theme": "light",
+      "file": "biography-ru-light.png",
+      "width": 1280,
+      "height": 673,
+      "sha256": "1ca1780f082fe52d3382bd1f107bc5a5f2e57744ef21ed2295f3bbc0a182b1db",
+      "portrait_sha256": "8e381bacdd6379f6b947c903d2a1ea5b9518085ca262d4af76a5698a1db40d30"
+    },
+    {
+      "slug": "chukovsky",
+      "lang": "ru",
+      "layout": "wide",
+      "theme": "dark",
+      "file": "biography-ru-dark.png",
+      "width": 1280,
+      "height": 673,
+      "sha256": "fb5b0918e1619be347d392ed0f427a9a718bac84722aebcd05398ebc70f56d4d",
+      "portrait_sha256": "8e381bacdd6379f6b947c903d2a1ea5b9518085ca262d4af76a5698a1db40d30"
+    },
+    {
+      "slug": "chukovsky",
+      "lang": "ru",
+      "layout": "mobile",
+      "theme": "light",
+      "file": "biography-ru-light-mobile.png",
+      "width": 840,
+      "height": 1164,
+      "sha256": "ccf1b7e1516f0c9c44e162aa7552cdeb6b5c722cd24eca4ae488d583db61271e",
+      "portrait_sha256": "8e381bacdd6379f6b947c903d2a1ea5b9518085ca262d4af76a5698a1db40d30"
+    },
+    {
+      "slug": "chukovsky",
+      "lang": "ru",
+      "layout": "mobile",
+      "theme": "dark",
+      "file": "biography-ru-dark-mobile.png",
+      "width": 840,
+      "height": 1164,
+      "sha256": "67331c3efdc45dc7b3fb1dd9c340049d2cb470b4cae357c2dccc229c0f5ffbf9",
+      "portrait_sha256": "8e381bacdd6379f6b947c903d2a1ea5b9518085ca262d4af76a5698a1db40d30"
+    },
+    {
+      "slug": "chukovsky",
+      "lang": "en",
+      "layout": "wide",
+      "theme": "light",
+      "file": "biography-en-light.png",
+      "width": 1280,
+      "height": 630,
+      "sha256": "a9b75537fdcfb60327bf6ee9674c74f95570960c7fa00bb7d494c482e2a4b14d",
+      "portrait_sha256": "8e381bacdd6379f6b947c903d2a1ea5b9518085ca262d4af76a5698a1db40d30"
+    },
+    {
+      "slug": "chukovsky",
+      "lang": "en",
+      "layout": "wide",
+      "theme": "dark",
+      "file": "biography-en-dark.png",
+      "width": 1280,
+      "height": 630,
+      "sha256": "86bbb194f3cecc563d32a252ce9f6b8d797194d79f7394a8ef363db85ffe490f",
+      "portrait_sha256": "8e381bacdd6379f6b947c903d2a1ea5b9518085ca262d4af76a5698a1db40d30"
+    },
+    {
+      "slug": "chukovsky",
+      "lang": "en",
+      "layout": "mobile",
+      "theme": "light",
+      "file": "biography-en-light-mobile.png",
+      "width": 840,
+      "height": 1057,
+      "sha256": "e2047978c6cffc726d5ee735da8bc03cf7222f216150aabc1551ba981ea87e4b",
+      "portrait_sha256": "8e381bacdd6379f6b947c903d2a1ea5b9518085ca262d4af76a5698a1db40d30"
+    },
+    {
+      "slug": "chukovsky",
+      "lang": "en",
+      "layout": "mobile",
+      "theme": "dark",
+      "file": "biography-en-dark-mobile.png",
+      "width": 840,
+      "height": 1057,
+      "sha256": "c20fc286c26a407314d6fac32f4e6ecbbf35e3f240cacc340c1408ba527fa3a7",
+      "portrait_sha256": "8e381bacdd6379f6b947c903d2a1ea5b9518085ca262d4af76a5698a1db40d30"
+    }
+  ],
+  "card_layout": "separate portrait and text blocks; mobile paragraph below the portrait/name row",
+  "card_font": "Onest Regular/Bold"
 }
