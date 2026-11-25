@@ -110,6 +110,18 @@ Learn to give clearer briefs, retain your own voice and spot invented details. T
 [Subscribe to the newsletter →](https://redaktozavr.ru/rAIdactor?utm_source=skills)
 
 
+## The person behind the name
+
+<img src="assets/people/chukovsky.jpg" alt="Korney Ivanovich Chukovsky" align="right" width="128" hspace="12">
+
+**Korney Ivanovich Chukovsky (1882–1969)**
+
+Korney Chukovsky was a writer, translator and critic, widely remembered for children’s classics such as Moidodyr and Doctor Aybolit. He also studied the language of adults. In Alive as Life, he explored changes in Russian and used the term ‘kantselyarit’ for bureaucratic wording that displaces natural speech. His observations help distinguish a living language from habitual verbal formulas. Our editing skill carries his name because it tackles bureaucratic and cumbersome writing, making ideas clearer while preserving the author’s voice.
+
+<br clear="all">
+
+Photo: L. Bergoltsev / Moscow Main Archive · [source and terms](assets/people/CREDITS.md).
+
 ## Compatibility and source
 
 Check the tools available in your app when setting up. The English page translates the documentation.

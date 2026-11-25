@@ -1,0 +1,22 @@
+{
+  "file": "portraits/chukovsky.jpg",
+  "sha256": "8e381bacdd6379f6b947c903d2a1ea5b9518085ca262d4af76a5698a1db40d30",
+  "dimensions": [
+    537,
+    729
+  ],
+  "media_type": "image/jpeg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Chukovsky_1958_02_%28cropped%29.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Chukovsky_1958_02_(cropped).jpg",
+  "source_metadata": "research/commons-chukovsky-category.json",
+  "title": "File:Chukovsky 1958 02 (cropped).jpg",
+  "author": "Л. Бергольцев; mos.ru / Главархив Москвы",
+  "date": "1958-07-02",
+  "credit": "https://www.mos.ru/news/item/104448073/",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "rights_status": "commons_free_license",
+  "changes": "none; original file downloaded byte-for-byte",
+  "http_status": 200,
+  "photographer_evidence": "Attribution in Commons image description: Фото Л. Бергольцева."
+}
